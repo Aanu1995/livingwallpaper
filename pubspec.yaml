@@ -1,0 +1,36 @@
+name: livingwallpaper
+description: Living Wallpaper is a wallpaper app that that displays beautiful images that you can use as background image of your phone.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  google_fonts: ^0.2.0
+  equatable: ^1.0.1
+  content_placeholder: ^0.1.0
+  fluttertoast: ^3.1.3
+  flutter_spinkit: ^4.1.1+1
+
+  provider: ^4.0.0
+  flutter_bloc: ^3.1.0
+  rxdart: ^0.23.1
+
+  cached_network_image: ^2.0.0-rc
+  http: ^0.12.0+2
+  image_downloader: ^0.19.1
+  connectivity: ^0.4.6+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
