@@ -1,6 +1,9 @@
 # livingwallpaper
 
-Living Wallpaper is a wallpaper app that that displays beautiful images that you can use as background image of your phone.
+Living Wallpaper is a wallpaper app that allows users to select from a pool of pre-categorized images and use these images as background for home screen and lock screen.
+
+The app is available on playstore for download
+https://play.google.com/store/apps/details?id=com.annulustek.livingwallpaper
 
 ## Getting Started
 
