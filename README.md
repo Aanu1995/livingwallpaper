@@ -1,6 +1,7 @@
 # livingwallpaper
 
 Living Wallpaper is a wallpaper app that allows users to select from a pool of pre-categorized images and use these images as background for home screen and lock screen.
+
 [![Codemagic build status](https://api.codemagic.io/apps/5e3c769ae850285f8276eb75/5e3c769ae850285f8276eb74/status_badge.svg)](https://codemagic.io/apps/5e3c769ae850285f8276eb75/5e3c769ae850285f8276eb74/latest_build)
 
 The app is available on playstore for download
